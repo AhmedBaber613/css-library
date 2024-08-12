@@ -29,45 +29,6 @@ img {
   max-width: 100%;
 }
 
-h1 {
-  a {
-    color: red;
-  }
-}
-
-h1 {
+.test {
   color: $primary;
-  margin-bottom: $base-margin;
-}
-
-a {
-  color: $secondary;
-}
-
-button {
-  color: white;
-  border: 0;
-  background: $primary;
-  border-radius: $base-border-radius;
-  padding: $base-padding;
-}
-
-.error {
-  color: $error;
-  border-color: $error;
-  border-style: solid;
-  margin: $base-margin;
-  padding: $base-padding;
-  border-radius: $base-border-radius;
-  border-width: $base-border-thickness;
-}
-
-.notification {
-  color: $secondary;
-  border-color: $secondary;
-  border-style: solid;
-  margin: $base-margin;
-  padding: $base-padding;
-  border-radius: $base-border-radius;
-  border-width: $base-border-thickness;
 }
